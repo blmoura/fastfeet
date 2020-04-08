@@ -2,9 +2,11 @@
     <img src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" >
 </h1>
 
-## Tecnologias
+# Projeto final do Bootcamp GoStack da Rocketseat
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+### Tecnologias
+
+Projeto desenvolvido com as seguintes tecnologias:
 
 - [Node.js]
 - [React]
